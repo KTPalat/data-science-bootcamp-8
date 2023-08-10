@@ -12,4 +12,9 @@ I learn a lot of stuff related to data science skill. This bootcamp
 - Data Transformation
 - Data Visualization
 - Essential Statistics for Data Analyst
-- Essential Machine Learning
+- Essential Machine Learning for Data Analyst
+- Python programming
+- Essential Python for Data Analyst
+- Dashboard
+
+You can find me on LinkedIn https://wwww.linkedin.com/in/palat-nuangjamnong-79662317b
